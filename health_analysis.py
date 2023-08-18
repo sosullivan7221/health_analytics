@@ -5,12 +5,13 @@ import numpy as np
 favorite_number = 4
 favorite_color = 'green'
 days_of_the_week = ['Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday']
-first_six_months = {'January': 1, 'February': 2, 'March': 3, 'April': 4, 'May': 5, 'June': 6}
+patient = {'ID': 14673317, 'Name': {'First Name': 'Sean', 'Last Name': 'OSullivan'}, 'Allergies': ['Pollen', 'Peanuts']}
+
 
 print(favorite_number)
 print(favorite_color)
 print(days_of_the_week)
-print(first_six_months)
+print(patient)
 
 
 def drink_legally(name, age):

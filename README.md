@@ -4,8 +4,8 @@ Primer Assignment for HHA 504/507
 Variables:
 First variable is my favorite number
 Second Variable is my favorite color
-Third variable are the days of the week in order
-Fourth variable are the first six months of the year indexed
+Third variable is the days of the week in order
+Fourth variable is a test patient with a nested dictionary
 
 The function takes a name(str) and an age(int) as the arguments
 If the age is less than 21, it will return that you cannot legally drink alcohol
